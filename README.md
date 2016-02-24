@@ -1,2 +1,1 @@
-# hello_world
-first repository
+Scripts to analyze PARIS RNA structure data
