@@ -3,7 +3,7 @@
 # Requires bedtools 
 # Requires Vienna RNA version >1.8.5
 # Requires SISSIz version >2
-
+# written by Martin Smith and Zhipeng Lu
 
 ###################################################################
 ###################################################################
